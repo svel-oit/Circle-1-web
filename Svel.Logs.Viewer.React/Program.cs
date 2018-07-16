@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Svel.Logs.Viewer
+namespace Svel.Logs.Viewer.React
 {
     public class Program
     {
