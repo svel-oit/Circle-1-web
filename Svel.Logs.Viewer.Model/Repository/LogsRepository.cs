@@ -16,7 +16,7 @@ namespace Svel.Logs.Viewer.Model.Repository
         /// <summary>
         /// Коннекшн стринг
         /// </summary>
-        private const string CONNECTION_STRING = @"data source=57-erp-2;initial catalog=Logs; persist security info=True;user id=srv_logger;password=logger;";
+        private const string CONNECTION_STRING = @"data source=57-erp-2;initial catalog=Logs; persist security info=True;user id=srv_logger;password=*******;";
 
         /// <summary>
         /// В этом формате мы будем передавать дату в sql.

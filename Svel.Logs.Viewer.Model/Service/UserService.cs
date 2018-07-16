@@ -17,7 +17,7 @@ namespace Svel.Logs.Viewer.Model.Service
         /// <summary>
         /// Строка соединения с базой.
         /// </summary>
-        private readonly string _connectionString = "data source=sbd; Database=Users; User Id=srv_users_api; Password=K3pMJP;";
+        private readonly string _connectionString = "data source=sbd; Database=Users; User Id=srv_users_api; Password=******;";
 
         /// <summary>
         /// Получение имени сервера.
